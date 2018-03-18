@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listify", "Listify\Listify.csproj", "{A3DD7845-C0B9-4D1B-93E7-202E439BBD61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listify.UnitTests", "Listify.UnitTests\Listify.UnitTests.csproj", "{8FA1BCFC-9B38-4AB5-97E1-BAD7799F372E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A3DD7845-C0B9-4D1B-93E7-202E439BBD61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3DD7845-C0B9-4D1B-93E7-202E439BBD61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3DD7845-C0B9-4D1B-93E7-202E439BBD61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FA1BCFC-9B38-4AB5-97E1-BAD7799F372E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA1BCFC-9B38-4AB5-97E1-BAD7799F372E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA1BCFC-9B38-4AB5-97E1-BAD7799F372E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA1BCFC-9B38-4AB5-97E1-BAD7799F372E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
