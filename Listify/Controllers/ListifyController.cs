@@ -9,7 +9,7 @@ namespace Listify.Controllers
 {
     [Route("api/[controller]")]
     public class ListifyController : Controller
-    {
+    { 
         // GET api/values
         [HttpGet]
         public IActionResult Get(int start, int end, int index)
